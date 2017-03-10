@@ -1,0 +1,2 @@
+gcc -o tp TP06.c -lm
+./tp input.txt

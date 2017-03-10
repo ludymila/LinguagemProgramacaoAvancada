@@ -1,0 +1,26 @@
+aqui:l aqui:p aqui:a aqui:v 
+Permutacao:
+lpav
+lpva
+lapv
+lavp
+lvap
+lvpa
+plav
+plva
+palv
+pavl
+pval
+pvla
+aplv
+apvl
+alpv
+alvp
+avlp
+avpl
+vpal
+vpla
+vapl
+valp
+vlap
+vlpa

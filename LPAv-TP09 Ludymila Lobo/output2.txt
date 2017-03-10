@@ -1,0 +1,485 @@
+** PARA VETOR DE 1000
+** BUBBLE SORT
+
+** Vetor aleatório
+* Quantidade de comparações: 499500
+* Quantidade de trocas: 251049
+* Tempo gasto (Microssegundos): 3775.000000
+
+** Vetor crescente
+* Quantidade de comparações: 499500
+* Quantidade de trocas: 0
+* Tempo gasto (Microssegundos): 1500.000000
+
+** Vetor decrescente
+* Quantidade de comparações: 499500
+* Quantidade de trocas: 499500
+* Tempo gasto (Microssegundos): 4195.000000
+
+
+** PARA VETOR DE 5000
+** BUBBLE SORT
+
+** Vetor aleatório
+* Quantidade de comparações: 12497500
+* Quantidade de trocas: 6204110
+* Tempo gasto (Microssegundos): 84589.000000
+
+** Vetor crescente
+* Quantidade de comparações: 12497500
+* Quantidade de trocas: 0
+* Tempo gasto (Microssegundos): 39745.000000
+
+** Vetor decrescente
+* Quantidade de comparações: 12497500
+* Quantidade de trocas: 12497500
+* Tempo gasto (Microssegundos): 100123.000000
+
+
+** PARA VETOR DE 10000
+** BUBBLE SORT
+
+** Vetor aleatório
+* Quantidade de comparações: 49995000
+* Quantidade de trocas: 24884007
+* Tempo gasto (Microssegundos): 373094.000000
+
+** Vetor crescente
+* Quantidade de comparações: 49995000
+* Quantidade de trocas: 0
+* Tempo gasto (Microssegundos): 151891.000000
+
+** Vetor decrescente
+* Quantidade de comparações: 49995000
+* Quantidade de trocas: 49995000
+* Tempo gasto (Microssegundos): 398483.000000
+
+
+** PARA VETOR DE 20000
+** BUBBLE SORT
+
+** Vetor aleatório
+* Quantidade de comparações: 199990000
+* Quantidade de trocas: 98903778
+* Tempo gasto (Microssegundos): 1600615.000000
+
+** Vetor crescente
+* Quantidade de comparações: 199990000
+* Quantidade de trocas: 0
+* Tempo gasto (Microssegundos): 621550.000000
+
+** Vetor decrescente
+* Quantidade de comparações: 199990000
+* Quantidade de trocas: 199990000
+* Tempo gasto (Microssegundos): 1601159.000000
+
+
+** PARA VETOR DE 50000
+** BUBBLE SORT
+
+** Vetor aleatório
+* Quantidade de comparações: 18446744073671036428
+* Quantidade de trocas: 188747620
+* Tempo gasto (Microssegundos): 10763802.000000
+
+** Vetor crescente
+* Quantidade de comparações: 1249975000
+* Quantidade de trocas: 0
+* Tempo gasto (Microssegundos): 3967187.000000
+
+** Vetor decrescente
+* Quantidade de comparações: 1249975000
+* Quantidade de trocas: 1249975000
+* Tempo gasto (Microssegundos): 10312200.000000
+
+
+**********************************************
+
+** PARA VETOR DE 1000
+** SELECTION SORT
+
+** Vetor aleatório
+* Quantidade de comparações: 499500
+* Quantidade de trocas: 988
+* Tempo gasto (Microssegundos): 1463.000000
+
+** Vetor crescente
+* Quantidade de comparações: 499500
+* Quantidade de trocas: 0
+* Tempo gasto (Microssegundos): 1343.000000
+
+** Vetor decrescente
+* Quantidade de comparações: 499500
+* Quantidade de trocas: 500
+* Tempo gasto (Microssegundos): 1408.000000
+
+
+** PARA VETOR DE 5000
+** SELECTION SORT
+
+** Vetor aleatório
+* Quantidade de comparações: 12497500
+* Quantidade de trocas: 4936
+* Tempo gasto (Microssegundos): 34901.000000
+
+** Vetor crescente
+* Quantidade de comparações: 12497500
+* Quantidade de trocas: 0
+* Tempo gasto (Microssegundos): 36304.000000
+
+** Vetor decrescente
+* Quantidade de comparações: 12497500
+* Quantidade de trocas: 2500
+* Tempo gasto (Microssegundos): 39026.000000
+
+
+** PARA VETOR DE 10000
+** SELECTION SORT
+
+** Vetor aleatório
+* Quantidade de comparações: 49995000
+* Quantidade de trocas: 9886
+* Tempo gasto (Microssegundos): 140618.000000
+
+** Vetor crescente
+* Quantidade de comparações: 49995000
+* Quantidade de trocas: 0
+* Tempo gasto (Microssegundos): 148610.000000
+
+** Vetor decrescente
+* Quantidade de comparações: 49995000
+* Quantidade de trocas: 5000
+* Tempo gasto (Microssegundos): 151784.000000
+
+
+** PARA VETOR DE 20000
+** SELECTION SORT
+
+** Vetor aleatório
+* Quantidade de comparações: 199990000
+* Quantidade de trocas: 19793
+* Tempo gasto (Microssegundos): 576360.000000
+
+** Vetor crescente
+* Quantidade de comparações: 199990000
+* Quantidade de trocas: 0
+* Tempo gasto (Microssegundos): 568808.000000
+
+** Vetor decrescente
+* Quantidade de comparações: 199990000
+* Quantidade de trocas: 10000
+* Tempo gasto (Microssegundos): 605643.000000
+
+
+** PARA VETOR DE 50000
+** SELECTION SORT
+
+** Vetor aleatório
+* Quantidade de comparações: 18446744073671036428
+* Quantidade de trocas: 49493
+* Tempo gasto (Microssegundos): 3567231.000000
+
+** Vetor crescente
+* Quantidade de comparações: 1249975000
+* Quantidade de trocas: 0
+* Tempo gasto (Microssegundos): 3516063.000000
+
+** Vetor decrescente
+* Quantidade de comparações: 1249975000
+* Quantidade de trocas: 25000
+* Tempo gasto (Microssegundos): 4016928.000000
+
+
+**********************************************
+
+** PARA VETOR DE 1000
+** INSERTION SORT
+
+** Vetor aleatório
+* Quantidade de comparações: 249695
+* Quantidade de trocas: 249695
+* Tempo gasto (Microssegundos): 1563.000000
+
+** Vetor crescente
+* Quantidade de comparações: 0
+* Quantidade de trocas: 0
+* Tempo gasto (Microssegundos): 3.000000
+
+** Vetor decrescente
+* Quantidade de comparações: 499500
+* Quantidade de trocas: 499500
+* Tempo gasto (Microssegundos): 2823.000000
+
+
+** PARA VETOR DE 5000
+** INSERTION SORT
+
+** Vetor aleatório
+* Quantidade de comparações: 6174837
+* Quantidade de trocas: 6174837
+* Tempo gasto (Microssegundos): 41592.000000
+
+** Vetor crescente
+* Quantidade de comparações: 0
+* Quantidade de trocas: 0
+* Tempo gasto (Microssegundos): 17.000000
+
+** Vetor decrescente
+* Quantidade de comparações: 12497500
+* Quantidade de trocas: 12497500
+* Tempo gasto (Microssegundos): 77819.000000
+
+
+** PARA VETOR DE 10000
+** INSERTION SORT
+
+** Vetor aleatório
+* Quantidade de comparações: 24848641
+* Quantidade de trocas: 24848641
+* Tempo gasto (Microssegundos): 156821.000000
+
+** Vetor crescente
+* Quantidade de comparações: 0
+* Quantidade de trocas: 0
+* Tempo gasto (Microssegundos): 30.000000
+
+** Vetor decrescente
+* Quantidade de comparações: 49995000
+* Quantidade de trocas: 49995000
+* Tempo gasto (Microssegundos): 354018.000000
+
+
+** PARA VETOR DE 20000
+** INSERTION SORT
+
+** Vetor aleatório
+* Quantidade de comparações: 99304721
+* Quantidade de trocas: 99304721
+* Tempo gasto (Microssegundos): 573040.000000
+
+** Vetor crescente
+* Quantidade de comparações: 0
+* Quantidade de trocas: 0
+* Tempo gasto (Microssegundos): 70.000000
+
+** Vetor decrescente
+* Quantidade de comparações: 199990000
+* Quantidade de trocas: 199990000
+* Tempo gasto (Microssegundos): 1180464.000000
+
+
+** PARA VETOR DE 50000
+** INSERTION SORT
+
+** Vetor aleatório
+* Quantidade de comparações: 189079693
+* Quantidade de trocas: 189079693
+* Tempo gasto (Microssegundos): 3621118.000000
+
+** Vetor crescente
+* Quantidade de comparações: 0
+* Quantidade de trocas: 0
+* Tempo gasto (Microssegundos): 166.000000
+
+** Vetor decrescente
+* Quantidade de comparações: 1249975000
+* Quantidade de trocas: 1249975000
+* Tempo gasto (Microssegundos): 7886805.000000
+
+
+**********************************************
+
+** PARA VETOR DE 1000
+** MERGE SORT
+
+** Vetor aleatório
+* Quantidade de comparações: 8701
+* Quantidade de trocas: 9976
+* Tempo gasto (Microssegundos): 149.000000
+
+** Vetor crescente
+* Quantidade de comparações: 4932
+* Quantidade de trocas: 9976
+* Tempo gasto (Microssegundos): 112.000000
+
+** Vetor decrescente
+* Quantidade de comparações: 5044
+* Quantidade de trocas: 9976
+* Tempo gasto (Microssegundos): 116.000000
+
+
+** PARA VETOR DE 5000
+** MERGE SORT
+
+** Vetor aleatório
+* Quantidade de comparações: 55152
+* Quantidade de trocas: 61808
+* Tempo gasto (Microssegundos): 846.000000
+
+** Vetor crescente
+* Quantidade de comparações: 29804
+* Quantidade de trocas: 61808
+* Tempo gasto (Microssegundos): 653.000000
+
+** Vetor decrescente
+* Quantidade de comparações: 32004
+* Quantidade de trocas: 61808
+* Tempo gasto (Microssegundos): 766.000000
+
+
+** PARA VETOR DE 10000
+** MERGE SORT
+
+** Vetor aleatório
+* Quantidade de comparações: 120189
+* Quantidade de trocas: 133616
+* Tempo gasto (Microssegundos): 1796.000000
+
+** Vetor crescente
+* Quantidade de comparações: 64608
+* Quantidade de trocas: 133616
+* Tempo gasto (Microssegundos): 1260.000000
+
+** Vetor decrescente
+* Quantidade de comparações: 69008
+* Quantidade de trocas: 133616
+* Tempo gasto (Microssegundos): 1200.000000
+
+
+** PARA VETOR DE 20000
+** MERGE SORT
+
+** Vetor aleatório
+* Quantidade de comparações: 260153
+* Quantidade de trocas: 287232
+* Tempo gasto (Microssegundos): 3687.000000
+
+** Vetor crescente
+* Quantidade de comparações: 139216
+* Quantidade de trocas: 287232
+* Tempo gasto (Microssegundos): 2468.000000
+
+** Vetor decrescente
+* Quantidade de comparações: 148016
+* Quantidade de trocas: 287232
+* Tempo gasto (Microssegundos): 2462.000000
+
+
+** PARA VETOR DE 50000
+** MERGE SORT
+
+** Vetor aleatório
+* Quantidade de comparações: 716460
+* Quantidade de trocas: 784464
+* Tempo gasto (Microssegundos): 9605.000000
+
+** Vetor crescente
+* Quantidade de comparações: 382512
+* Quantidade de trocas: 784464
+* Tempo gasto (Microssegundos): 6658.000000
+
+** Vetor decrescente
+* Quantidade de comparações: 401952
+* Quantidade de trocas: 784464
+* Tempo gasto (Microssegundos): 6861.000000
+
+
+**********************************************
+
+** PARA VETOR DE 1000
+** QUICK SORT
+
+** Vetor aleatório
+* Quantidade de comparações: 4943
+* Quantidade de trocas: 12946
+* Tempo gasto (Microssegundos): 103.000000
+
+** Vetor crescente
+* Quantidade de comparações: 0
+* Quantidade de trocas: 499500
+* Tempo gasto (Microssegundos): 1431.000000
+
+** Vetor decrescente
+* Quantidade de comparações: 250000
+* Quantidade de trocas: 499500
+* Tempo gasto (Microssegundos): 2666.000000
+
+
+** PARA VETOR DE 5000
+** QUICK SORT
+
+** Vetor aleatório
+* Quantidade de comparações: 18519
+* Quantidade de trocas: 163655
+* Tempo gasto (Microssegundos): 838.000000
+
+** Vetor crescente
+* Quantidade de comparações: 0
+* Quantidade de trocas: 12497500
+* Tempo gasto (Microssegundos): 33924.000000
+
+** Vetor decrescente
+* Quantidade de comparações: 6250000
+* Quantidade de trocas: 12497500
+* Tempo gasto (Microssegundos): 65483.000000
+
+
+** PARA VETOR DE 10000
+** QUICK SORT
+
+** Vetor aleatório
+* Quantidade de comparações: 37726
+* Quantidade de trocas: 577380
+* Tempo gasto (Microssegundos): 2348.000000
+
+** Vetor crescente
+* Quantidade de comparações: 0
+* Quantidade de trocas: 49995000
+* Tempo gasto (Microssegundos): 134612.000000
+
+** Vetor decrescente
+* Quantidade de comparações: 25000000
+* Quantidade de trocas: 49995000
+* Tempo gasto (Microssegundos): 309943.000000
+
+
+** PARA VETOR DE 20000
+** QUICK SORT
+
+** Vetor aleatório
+* Quantidade de comparações: 87448
+* Quantidade de trocas: 2178552
+* Tempo gasto (Microssegundos): 7716.000000
+
+** Vetor crescente
+* Quantidade de comparações: 0
+* Quantidade de trocas: 199990000
+* Tempo gasto (Microssegundos): 646705.000000
+
+** Vetor decrescente
+* Quantidade de comparações: 100000000
+* Quantidade de trocas: 199990000
+* Tempo gasto (Microssegundos): 1174959.000000
+
+
+** PARA VETOR DE 50000
+** QUICK SORT
+
+** Vetor aleatório
+* Quantidade de comparações: 218196
+* Quantidade de trocas: 12921177
+* Tempo gasto (Microssegundos): 40368.000000
+
+** Vetor crescente
+* Quantidade de comparações: 0
+* Quantidade de trocas: 1249975000
+* Tempo gasto (Microssegundos): 3598312.000000
+
+** Vetor decrescente
+* Quantidade de comparações: 625000000
+* Quantidade de trocas: 1249975000
+* Tempo gasto (Microssegundos): 7044034.000000
+
+
+**********************************************
+

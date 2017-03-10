@@ -1,0 +1,19 @@
+LEIA-ME
+
+Kevin Takano - 21200471
+
+LPAV
+
+Algumas informações importantes:
+
+	A função backtracking() calcula apenas uma possibilidade de caminho. 
+	A função backtracking2() calcula todas as possibilidades de caminho. 
+
+	Foi utilizado uma fila para o backtracking() para guardar o caminho.
+	Foi utilizado uma fila de filas para o backtracking2() para guardar todos os caminhos. 
+
+	Toda vez que é acionado a opção '2)' no terminal, é gerado uma saída.txt que há todas as saídas conforme
+a especificação do trabalho 7 de LPA, a única diferença é que ao invés de usar uma ',' entre cada posição, utilizei
+um '->'. 
+
+	

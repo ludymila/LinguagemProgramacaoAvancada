@@ -1,0 +1,6 @@
+acesse o diretorio dos arquivos no terminal
+digite no terminal do linux:
+
+gcc campo.c -o campo
+gcc campo.c2 -o campo2
+./campo < input.txt | ./campo2 

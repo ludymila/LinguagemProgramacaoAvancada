@@ -1,0 +1,9 @@
+gcc -pthread tp11.c -o tp11
+./tp12 tamanhoDados numQuestao
+sendo tamanhoDados o tamanho do vetor para a questao1, e tamanho da matriz na questao 2.
+numQuestao pode ser 1 ou 2, onde 1 realiza a soma dos elementos do vetor e 2 realiza a multiplicacao de matrizes.
+
+exemplo: 
+./tp11 512 1
+
+para um vetor de 512 posicoes, e para ver o resultado da questao 1

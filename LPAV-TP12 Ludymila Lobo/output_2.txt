@@ -1,0 +1,10 @@
+Numero, Valor simetrico: 81 , -81
+Numero, Valor simetrico: 31 , -31
+Numero, Valor simetrico: 67 , -67
+Numero, Valor simetrico: 118 , -118
+Numero, Valor simetrico: 71 , -71
+Numero, Valor simetrico: 70 , -70
+Numero, Valor simetrico: 7 , -7
+Numero, Valor simetrico: 57 , -57
+Numero, Valor simetrico: 12 , -12
+Numero, Valor simetrico: 128 , -128

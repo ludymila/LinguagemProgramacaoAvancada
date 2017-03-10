@@ -1,0 +1,40 @@
+X: 12 Y: 28
+Multiplicação: 336
+X: 7 Y: 23
+Multiplicação: 161
+X: 33 Y: 18
+Multiplicação: 594
+X: 26 Y: 14
+Multiplicação: 364
+X: 36 Y: 31
+Multiplicação: 1116
+X: 17 Y: 19
+Multiplicação: 323
+X: 12 Y: 30
+Multiplicação: 360
+X: 32 Y: 35
+Multiplicação: 1120
+X: 14 Y: 26
+Multiplicação: 364
+X: 5 Y: 6
+Multiplicação: 30
+X: 12 Y: 14
+Multiplicação: 168
+X: 11 Y: 7
+Multiplicação: 77
+X: 29 Y: 10
+Multiplicação: 290
+X: 16 Y: 25
+Multiplicação: 400
+X: 21 Y: 9
+Multiplicação: 189
+X: 12 Y: 27
+Multiplicação: 324
+X: 31 Y: 37
+Multiplicação: 1147
+X: 19 Y: 22
+Multiplicação: 418
+X: 33 Y: 28
+Multiplicação: 924
+X: 7 Y: 15
+Multiplicação: 105

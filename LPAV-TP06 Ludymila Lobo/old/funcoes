@@ -1,0 +1,53 @@
+//I M N
+ 	//Cria uma	nova imagem M linhas x N colunas com todos os pixels inicialmente coloridos	com zero (0).
+    int I(char m1[], char n1[]){
+    	int i,j;
+    	if (!(strcmp (m1,"0") || strcmp (n1,"0")) ){ //verificando se os parametros foram passados no comando
+    		m = atoi(m1);
+    		n = atoi(n1);
+    		for (i=0;i<m;i++){
+    			for (j=0;j<n;j++){
+    				strcpy(mat[i][j],"0");
+    			}
+    		}
+    		return 1;
+    	}
+    	return 0; //parametros invalidos
+    }
+    //C
+    //Coloca todos os pixels da imagem com o valor zero(0). O tamanho permanece o mesmo.
+    int C(){
+        int i,j;
+    	for (i=0;i<m;i++){
+    			for (j=0;j<n;j++){
+    				mat[i][j] = "0";
+    			}
+    		}
+    }
+    //L	X Y	C
+    //Colore	o	pixel	(X,Y)	com	a	cor	C.
+    void L(char *input[]){
+    	//strcpy(input[2], mat[atoi(input[0])][atoi(input[1])] );
+    }
+    void V(){
+    	
+    }
+    void H(){
+    	
+    }
+    void K(){
+    	
+    }
+    void F(){
+    	
+    }
+    void S(){
+        int i,j;
+        for (i=1; i<=m; i++) {
+            for (j=1; j<=n; j++) {
+                printf("%c \t", mat[i][j]);
+                //getchar();
+            }
+            printf("\n");
+        }
+    }
